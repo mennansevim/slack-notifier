@@ -1,0 +1,8 @@
+{
+  "webHookUrl" : "REPLACE_ME",  
+  "cronExpression":  "0 00 10 ? * FRI",
+  "teamDisplayName": "TEAM DISPLAY NAME",
+  "pandoraGroupName": "order-management",
+  "groupIds": "111", // project group id
+  "periodDays": 7
+}

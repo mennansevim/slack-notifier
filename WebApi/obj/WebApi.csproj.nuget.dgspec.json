@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mennan.sevim1/Documents/Projects/Personal/slack-notifier/WebApi/WebApi.csproj": {}
+  },
+  "projects": {
+    "/Users/mennan.sevim1/Documents/Projects/Personal/slack-notifier/WebApi/WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mennan.sevim1/Documents/Projects/Personal/slack-notifier/WebApi/WebApi.csproj",
+        "projectName": "WebApi",
+        "projectPath": "/Users/mennan.sevim1/Documents/Projects/Personal/slack-notifier/WebApi/WebApi.csproj",
+        "packagesPath": "/Users/mennan.sevim1/.nuget/packages/",
+        "outputPath": "/Users/mennan.sevim1/Documents/Projects/Personal/slack-notifier/WebApi/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/mennan.sevim1/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "http://nexus-xeon.trendyol.com/repository/nuget-group/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

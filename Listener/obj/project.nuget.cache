@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "8+7aQtvkcKVggQ6Onak/v+TTeOuYvIgW332DrqyuulgTt5JArrghO9IUc+V7EsWGk3EXIbJSj3zw2zaJGL+Xkw==",
+  "success": true,
+  "projectFilePath": "/Users/mennan.sevim1/Documents/Projects/Personal/slack-notifier/Listener/Listener.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nexus-xeon.trendyol.com/repository/nuget-group/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

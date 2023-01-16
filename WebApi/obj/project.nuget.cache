@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "XL3qzMlSrqhGihh/f+opgVq0ConH6IMTX1XHjuPlni3Aj1cBQpnXL/NjGm6hIgu/YkNHRcWK1RSdaCP+cYqsHw==",
+  "success": true,
+  "projectFilePath": "/Users/mennan.sevim1/Documents/Projects/Personal/slack-notifier/WebApi/WebApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/mennan.sevim1/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/mennan.sevim1/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/mennan.sevim1/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/mennan.sevim1/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/mennan.sevim1/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/mennan.sevim1/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nexus-xeon.trendyol.com/repository/nuget-group/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
