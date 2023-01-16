@@ -2,7 +2,6 @@ using System;
 using System.Threading.Tasks;
 using Confluent.Kafka;
 using Microsoft.Extensions.Logging;
-using SlackNotifier.Application.Producers.Interfaces;
 using SlackNotifier.Infrastructure.Utils;
 
 namespace SlackNotifier.Infrastructure.ErrorHandling
