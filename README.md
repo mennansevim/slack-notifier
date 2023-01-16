@@ -19,11 +19,11 @@ Sample json file:
 Peoject/Teams/globalplatforms-order-management.json
 
 {
-  "webHookUrl" : "https://hooks.slack.com/services/T0123123123123",
+  "webHookUrl" : "webhook",
   "cronExpression":  "0 45 11 ? * THU", // Every Thursday on 11:45
   "teamDisplayName": "GP - Order Management",
   "pandoraGroupName": "order-management",
-  "groupIds": "4468,266",
+  "groupIds": "123,4231",
   "periodDays": 7
 }
 
@@ -44,5 +44,3 @@ This service helps to you to benchmark your team's fourkeymetrics performance.
 
 <img width="454" alt="image" src="https://user-images.githubusercontent.com/40278697/212184396-cd683b99-1ecb-470b-aec1-503966f0522a.png">
 
-Change Fail Percentage % 0     %0     :heavy_minus_sign:
-# slack-notifier
